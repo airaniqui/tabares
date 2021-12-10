@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Flashdrive</title>
+<link rel="stylesheet" type="text/css" href="theme.css">
+<body>
+<p>
+<div class="navbar">
+  <h1>Flash drive of the future</h1>
+ </div>
+ <ul> 
+  <li><a href="home.html">Home</a></li>
+  <li><a href="product.html">Product</a></li>
+  <li><a href="timeline.html">Timeline</a></li>
+  <li><a href="ual.html">Users Acceptable Level</a></li>
+  <li><a href="creator.html">About the creator</a></li>
+</ul>
+</p>
+</body>
+<html
